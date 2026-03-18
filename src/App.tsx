@@ -87,7 +87,7 @@ export default function App() {
             <div className="bg-white p-6 rounded-2xl border-l-4 border-emerald-500 shadow-sm mb-8 max-w-2xl">
               <h3 className="text-xl font-bold mb-2 flex items-center justify-center gap-2">
                 <ShieldCheck className="w-6 h-6 text-emerald-600" />
-                Get the "Eli Guarantee"
+                Get our Cash Guarantee
               </h3>
               <p className="text-zinc-600 leading-relaxed">
                 The price we quote is the cash you get. No haggling. No fees. Just local service you can trust.
@@ -177,13 +177,13 @@ export default function App() {
               author="Jose Egas"
             />
             <TestimonialCard 
-              factor="The Eli & Tony Personal Touch"
+              factor="The Personal Touch"
               quote="Everything was quick. Tony was very nice!"
               author="Minji Kim"
             />
             <TestimonialCard 
-              factor="The Eli & Tony Personal Touch"
-              quote="Eli made the selling process so easy... I would definitely recommend!"
+              factor="The Personal Touch"
+              quote="They made the selling process so easy... I would definitely recommend!"
               author="Lisa B."
             />
           </div>
@@ -220,7 +220,7 @@ export default function App() {
                 </tr>
                 <tr>
                   <td className="p-6 font-bold text-zinc-500">Support</td>
-                  <td className="p-6 font-bold text-emerald-700 bg-emerald-50/50">Speak directly to Eli or Tony.</td>
+                  <td className="p-6 font-bold text-emerald-700 bg-emerald-50/50">Speak directly to Tony.</td>
                   <td className="p-6 text-zinc-600">Wait on hold for a call center.</td>
                 </tr>
                 <tr>
@@ -272,7 +272,7 @@ export default function App() {
             <div className="bg-zinc-800 p-8 rounded-3xl border border-white/5">
               <h3 className="text-2xl font-bold mb-6">Ready to sell your car?</h3>
               <p className="text-zinc-400 mb-8 leading-relaxed">
-                Don't settle for national app prices. Get the local Englewood advantage and the Eli Guarantee today.
+                Don't settle for national app prices. Get the local Englewood advantage and our Cash Guarantee today.
               </p>
               <a 
                 href="tel:2015009917"
